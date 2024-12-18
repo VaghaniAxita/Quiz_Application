@@ -31,7 +31,7 @@ ____________________________________________________
 2. Navigate to the Project Directory:
 
 ```bash
-  cd Quiz Application  
+  cd backend
 ```
 
 3. Run the server:
